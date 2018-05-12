@@ -1,0 +1,33 @@
+_repo: Sketches_19781
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Disraeli, Benjamin, Earl of Beaconsfield
+    alias: Disraeli, B. (Benjamin), Earl of Beaconsfield
+    birthdate: 1804
+    deathdate: 1881
+    gutenberg_agent_id: '1292'
+    url: http://www.gutenberg.org/2009/agents/1292
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Disraeli,_1st_Earl_of_Beaconsfield
+description: ''
+gutenberg_issued: '2006-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19781'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+tableOfContents: The Carrier Pigeon -- The Consul's Daughter -- Walstein; Or A Cure
+  For Melancholy -- The Court Of Egypt -- The Valley Of Thebes -- Egyptian Thebes
+  -- Shoubra Eden And Lebanon -- A Syrian Sketch -- The Bosphorus -- An Interview
+  With A Great Turk -- Munich -- The Spirit Of Whiggism.
+title: Sketches
+url: http://www.gutenberg.org/ebooks/19781
